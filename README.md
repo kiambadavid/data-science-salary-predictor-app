@@ -5,4 +5,4 @@ The data for building the model was obtained from [Kaggle](https://www.kaggle.co
 
 The App is a multi-page streamlit app with 3 pages(the machine learning model page, data visualization page, and a data dataframe and a link to access the dataset)
 
-Check out the app [here](https://data-science-salary-predictor-app-4qkg3p9cbhfyv7z9hajtrb.streamlit.app/).
+Check out the app [here](https://data-science-salary-predictor-app.streamlit.app/).
